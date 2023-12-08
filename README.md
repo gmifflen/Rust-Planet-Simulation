@@ -45,13 +45,14 @@ After starting the simulation, you will see planets orbiting the Sun. Each plane
 
 ## Contributing
 
-I'm not the best at Rust, this is my second Rust project, my first being (Bounce)[https://github.com/gmifflen/Bounce].
+I'm not the best at Rust, this is my second Rust project, my first being [Bounce](https://github.com/gmifflen/Bounce).
 
 Any suggestions on improvements or ways to write it in a better/safer way is much appreciated.
 
 ## Acknowledgements
 
 - Special thanks to Tech With Tim for the original Python Planet Simulation, which inspired this project.
+  - [Planet Simulation In Python - Tutorial](https://www.youtube.com/watch?v=WTLPmUHTPqo) 
 - This project is developed using Rust and the minifb library for windowing and buffer management.
 
 ## License
