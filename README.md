@@ -1,6 +1,6 @@
 # Rust Planetary Simulation
 
-This project is a planetary simulation written in Rust, creating an interactive visualization of planets orbiting the Sun. It's designed to demonstrate the principles of celestial mechanics, using real-world physics to simulate gravitational forces and planetary motion.
+This project is a planetary simulation written in Rust, creating a visualization of planets orbiting the Sun. It's designed to demonstrate the principles of celestial mechanics, using real-world physics to simulate gravitational forces and planetary motion.
 
 ## Overview
 
