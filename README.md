@@ -6,6 +6,11 @@ This project is a planetary simulation written in Rust, creating a visualization
 
 The simulation features a dynamic model of planets orbiting a central star (the Sun), where each planet's motion is influenced by gravitational forces. The project is loosely based on a [Python-based planetary simulation](https://github.com/techwithtim/Python-Planet-Simulation) by Tech With Tim, adapted and expanded into Rust for enhanced performance and additional features.
 
+   <img src="https://raw.githubusercontent.com/gmifflen/Rust-Planet-Simulation/main/orbital_sc.png"
+        alt="screenshot of program running"
+      height="512px"
+   />
+
 ## Features
 
 - Realistic simulation of gravitational forces between planets and the Sun.
